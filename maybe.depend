@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1652388412 source:c:\users\diabo\desktop\maybe\main.cpp
+	<iostream>
+	<memory>
+	"game.hpp"
+
+1652444596 c:\users\diabo\desktop\maybe\game.hpp
+	<iostream>
+	<memory>
+	<time.h>
+	"warrior.hpp"
+	"mage.hpp"
+	"rogue.hpp"
+	"stats.hpp"
+
+1652444597 c:\users\diabo\desktop\maybe\warrior.hpp
+	"stats.hpp"
+
+1652444705 c:\users\diabo\desktop\maybe\stats.hpp
+
+1652444397 c:\users\diabo\desktop\maybe\mage.hpp
+	"stats.hpp"
+
+1652444597 c:\users\diabo\desktop\maybe\rogue.hpp
+	"stats.hpp"
+
+1653075148 source:c:\users\diabo\desktop\07_lechovic_lukas\program\main.cpp
+	<iostream>
+	<memory>
+	"game.hpp"
+
+1653076740 c:\users\diabo\desktop\07_lechovic_lukas\program\game.hpp
+	<time.h>
+	"ConsoleColor.h"
+	"warrior.hpp"
+	"mage.hpp"
+	"rogue.hpp"
+	"playerinfo.hpp"
+
+1653075971 c:\users\diabo\desktop\07_lechovic_lukas\program\warrior.hpp
+	"ConsoleColor.h"
+	"playerinfo.hpp"
+
+1653035394 c:\users\diabo\desktop\07_lechovic_lukas\program\stats.hpp
+
+1653076127 c:\users\diabo\desktop\07_lechovic_lukas\program\mage.hpp
+	"ConsoleColor.h"
+	"playerinfo.hpp"
+
+1653076113 c:\users\diabo\desktop\07_lechovic_lukas\program\rogue.hpp
+	"ConsoleColor.h"
+	"playerinfo.hpp"
+	<time.h>
+
+1653076233 c:\users\diabo\desktop\07_lechovic_lukas\program\playerinfo.hpp
+	"ConsoleColor.h"
+
+1653050066 c:\users\diabo\desktop\07_lechovic_lukas\program\consolecolor.h
+	<iostream>
+	<windows.h>
+
+1653075148 source:c:\users\diabo\onedrive\výška\1. roèník\letný semester\programko 2 - kubovèík\07_lechovic_lukas\07_lechovic_lukas\program\main.cpp
+	<iostream>
+	<memory>
+	"game.hpp"
+
+1653076740 c:\users\diabo\onedrive\výška\1. roèník\letný semester\programko 2 - kubovèík\07_lechovic_lukas\07_lechovic_lukas\program\game.hpp
+	<time.h>
+	"ConsoleColor.h"
+	"warrior.hpp"
+	"mage.hpp"
+	"rogue.hpp"
+	"playerinfo.hpp"
+
+1653050066 c:\users\diabo\onedrive\výška\1. roèník\letný semester\programko 2 - kubovèík\07_lechovic_lukas\07_lechovic_lukas\program\consolecolor.h
+	<iostream>
+	<windows.h>
+
+1653075971 c:\users\diabo\onedrive\výška\1. roèník\letný semester\programko 2 - kubovèík\07_lechovic_lukas\07_lechovic_lukas\program\warrior.hpp
+	"ConsoleColor.h"
+	"playerinfo.hpp"
+
+1653076233 c:\users\diabo\onedrive\výška\1. roèník\letný semester\programko 2 - kubovèík\07_lechovic_lukas\07_lechovic_lukas\program\playerinfo.hpp
+	"ConsoleColor.h"
+
+1653076127 c:\users\diabo\onedrive\výška\1. roèník\letný semester\programko 2 - kubovèík\07_lechovic_lukas\07_lechovic_lukas\program\mage.hpp
+	"ConsoleColor.h"
+	"playerinfo.hpp"
+
+1653076113 c:\users\diabo\onedrive\výška\1. roèník\letný semester\programko 2 - kubovèík\07_lechovic_lukas\07_lechovic_lukas\program\rogue.hpp
+	"ConsoleColor.h"
+	"playerinfo.hpp"
+	<time.h>
+
