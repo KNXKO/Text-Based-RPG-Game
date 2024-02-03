@@ -3,3 +3,4 @@
 .bin/
 .obj/
 *.exe
+obj/Debug/
